@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="2361" started-at="2020-01-30T04:48:16Z" finished-at="2020-01-30T04:48:19Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="2361" started-at="2020-01-30T04:48:16Z" finished-at="2020-01-30T04:48:19Z">
+      <class name="com.flags.FlagFickerRestAPITest">
+        <test-method status="PASS" signature="getAllListSuccess()[pri:0, instance:com.flags.FlagFickerRestAPITest@5622fdf]" name="getAllListSuccess" duration-ms="2191" started-at="2020-01-29T22:48:17Z" finished-at="2020-01-29T22:48:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAllListSuccess -->
+        <test-method status="PASS" signature="getContinentListSuccess()[pri:0, instance:com.flags.FlagFickerRestAPITest@5622fdf]" name="getContinentListSuccess" duration-ms="59" started-at="2020-01-29T22:48:19Z" finished-at="2020-01-29T22:48:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getContinentListSuccess -->
+        <test-method status="PASS" signature="getCountriesListSuccess()[pri:0, instance:com.flags.FlagFickerRestAPITest@5622fdf]" name="getCountriesListSuccess" duration-ms="55" started-at="2020-01-29T22:48:19Z" finished-at="2020-01-29T22:48:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getCountriesListSuccess -->
+        <test-method status="PASS" signature="getFlagListSuccess()[pri:0, instance:com.flags.FlagFickerRestAPITest@5622fdf]" name="getFlagListSuccess" duration-ms="35" started-at="2020-01-29T22:48:19Z" finished-at="2020-01-29T22:48:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getFlagListSuccess -->
+      </class> <!-- com.flags.FlagFickerRestAPITest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
